@@ -1,1 +1,5 @@
-
+keras
+numpy
+pandas
+matplotlib
+cv2
